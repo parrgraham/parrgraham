@@ -1,5 +1,5 @@
 <h1>Greetings,</h1>
-<p>My name is Graham Parr-Whalley, and I am an experienced Electronic Technician with over ten years of experience repairing and maintaining electronic equipment. I am now making a career transition to software development and have created this GitHub to track my journey.</p>
+<p>My name is Graham, and I am an experienced Electronic Technician with over ten years of experience repairing and maintaining electronic equipment. I am now making a career transition to software development and have created this GitHub to track my journey.</p>
 <p>As I embark on this new career path, I have set some goals for myself to achieve by March 28th:</p>
 <ul>
   <li>Achieve a Codeforces Elo-MMR of 1000</li>
